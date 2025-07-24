@@ -1,0 +1,485 @@
+{
+  "data": [
+    {
+      "id": "P_001",
+      "name": "Multimodal Scene Classification",
+      "createdAt": "2024-12-01",
+      "url": "https://github.com/abdessamad-chahbi/multimodal-scene-classification",
+      "description": "🖼️ Developed a multimodal model combining visual (CNN with VGG19, ResNet50, InceptionV3) and audio features (MFCC + LSTM). Achieved 99% accuracy with hybrid fusion and ensemble methods (Bagging, Voting).",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Keras",
+          "iconifyClass": "simple-icons:keras"
+        },
+        {
+          "name": "NumPy",
+          "iconifyClass": "simple-icons:numpy"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos-matplotlib"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "scikit-learn",
+          "iconifyClass": "simple-icons:scikitlearn"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "simple-icons:opencv"
+        }
+      ]
+    },
+    {
+      "id": "P_002",
+      "name": "Automatic Language & Speaker Recognition",
+      "createdAt": "2024-12-01",
+      "url": "https://github.com/abdessamad-chahbi/language-speaker-recognition",
+      "description": "🗣️ Implemented a speaker and language recognition system using GMM and MFCC features. Designed models to classify 5 languages (Arabic, English, French, Japanese, Spanish) and identify speakers with high accuracy.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "NumPy",
+          "iconifyClass": "simple-icons:numpy"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        },
+        {
+          "name": "scikit-learn",
+          "iconifyClass": "simple-icons:scikitlearn"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos-matplotlib"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "P_003",
+      "name": "Object Recognition for Supermarkets",
+      "createdAt": "2024-05-01",
+      "url": "https://github.com/abdessamad-chahbi/object-recognition-supermarket",
+      "description": "🛒 Developed a desktop application for product recognition using Python (PyQt5). Integrated CNN models (MobileNetV2, VGG16) for image classification and linked the system with MySQL for product information management.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyQt5",
+          "iconifyClass": "simple-icons:qt"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "simple-icons:opencv"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Keras",
+          "iconifyClass": "simple-icons:keras"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        },
+        {
+          "name": "NumPy",
+          "iconifyClass": "simple-icons:numpy"
+        }
+      ]
+    },
+    {
+      "id": "P_004",
+      "name": "Business Intelligence – Sales Analysis",
+      "createdAt": "2024-05-01",
+      "url": "https://github.com/abdessamad-chahbi/bi-sales-analysis",
+      "description": "📊 Built a BI solution using SQL Server, SSIS (ETL), SSAS (OLAP Cubes), and SSRS to analyze sales data from the Northwind database. Developed dashboards and MDX queries for advanced reporting.",
+      "languages": [
+        {
+          "name": "SQL",
+          "iconifyClass": "vscode-icons:file-type-sql"
+        },
+        {
+          "name": "Microsoft SSIS, SSAS & SSRS",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
+        },
+        {
+          "name": "MDX",
+          "iconifyClass": "simple-icons:mdx"
+        },
+        {
+          "name": "ETL",
+          "iconifyClass": "simple-icons:databricks"
+        },
+        {
+          "name": "Data Visualization",
+          "iconifyClass": "simple-icons:chartdotjs"
+        },
+        {
+          "name": "Reporting",
+          "iconifyClass": "simple-icons:tableau"
+        },
+        {
+          "name": "Visual Studio",
+          "iconifyClass": "simple-icons:visualstudio"
+        },
+        {
+          "name": "Star Schema",
+          "iconifyClass": "simple-icons:azuredataexplorer"
+        }
+      ]
+    },
+    {
+      "id": "P_005",
+      "name": "My Portfolio",
+      "createdAt": "2025-07-01",
+      "url": "https://github.com/abdessamad-chahbi/myPortfolio",
+      "description": "🔥 Built a personal portfolio website to showcase my projects and skills. Developed with HTML, CSS, and JavaScript, containerized with Docker, and deployed for continuous availability.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos-bootstrap"
+        },
+        {
+          "name": "GitHub Pages",
+          "iconifyClass": "simple-icons:githubpages"
+        }
+      ]
+    },
+    {
+      "id": "P_006",
+      "name": "Full-stack e-commerce Web App with Log Analysis",
+      "createdAt": "2025-02-01",
+      "url": "https://github.com/abdessamad-chahbi/myapp-omnimart",
+      "description": "🛍️ Full-stack e-commerce web application developed with Laravel, integrating ThumbmarkJS for unique visitor ID logging. Logs were used to simulate attack scenarios (SQLi, XSS, Brute Force) and detect anomalies via ML models.",
+      "languages": [
+        {
+          "name": "Laravel",
+          "iconifyClass": "simple-icons:laravel"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "Acces Log",
+          "iconifyClass": "carbon:document"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "P_007",
+      "name": "Image Processing & Analysis",
+      "createdAt": "2024-04-01",
+      "url": "https://github.com/abdessamad-chahbi/image-processing-analysis",
+      "description": "🖌️ Developed a GUI-based image processing tool using Python and OpenCV. Implemented histogram equalization, filtering (Gaussian, Median), edge detection (Sobel, Laplacian), and morphological operations.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "simple-icons:opencv"
+        },
+        {
+          "name": "PyQt5",
+          "iconifyClass": "simple-icons:qt"
+        },
+        {
+          "name": "NumPy",
+          "iconifyClass": "simple-icons:numpy"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Keras",
+          "iconifyClass": "simple-icons:keras"
+        },
+        {
+          "name": "scikit-learn",
+          "iconifyClass": "simple-icons:scikitlearn"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos-matplotlib"
+        }
+      ]
+    },
+    {
+      "id": "P_008",
+      "name": "Full Stack - Web Application for Resource Management",
+      "createdAt": "2024-03-01",
+      "url": "https://github.com/abdessamad-chahbi/resource-management-app",
+      "description": "🗂️ Led a team to develop a resource management system with Spring Boot and JSP. Managed supplier proposals, delivery workflows, and implemented authentication with Spring Security.",
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "simple-icons:springboot"
+        },
+        {
+          "name": "Spring Data",
+          "iconifyClass": "simple-icons:spring"
+        },
+        {
+          "name": "Spring Security",
+          "iconifyClass": "simple-icons:springsecurity"
+        },
+        {
+          "name": "JSP",
+          "iconifyClass": "vscode-icons:file-type-jsp"
+        },
+        {
+          "name": "Thymeleaf",
+          "iconifyClass": "simple-icons:thymeleaf"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos-bootstrap"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "P_009",
+      "name": "Cardiovascular Disease Risk Prediction",
+      "createdAt": "2024-03-01",
+      "url": "https://github.com/abdessamad-chahbi/chd-risk-prediction",
+      "description": "❤️ Predicted 10-year coronary heart disease (CHD) risk using logistic regression on the Framingham dataset. Applied data cleaning, exploratory analysis (EDA), and implemented a predictive model in Java integrated with Apache Hadoop.",
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Apache Hadoop",
+          "iconifyClass": "simple-icons:apachehadoop"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos-matplotlib"
+        },
+        {
+          "name": "NumPy",
+          "iconifyClass": "simple-icons:numpy"
+        }
+      ]
+    },
+    {
+      "id": "P_010",
+      "name": "Project Management Web Platform",
+      "createdAt": "2024-01-01",
+      "url": "https://github.com/abdessamad-chahbi/project-management-platform",
+      "description": "📝 Developed a project management platform with Jakarta EE (JSP, JSTL) and MySQL. Implemented features for project creation, task management, and secure role-based access for Directors and Developers.",
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Jakarta EE",
+          "iconifyClass": "mdi:application-braces"
+        },
+        {
+          "name": "JSP",
+          "iconifyClass": "vscode-icons:file-type-jsp"
+        },
+        {
+          "name": "JSTL",
+          "iconifyClass": "mdi:code-tags"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos-bootstrap"
+        }
+      ]
+    },
+    {
+      "id": "P_011",
+      "name": "Web Application for Student Management",
+      "createdAt": "2023-12-01",
+      "url": "https://github.com/abdessamad-chahbi/student-management-app",
+      "description": "🎓 Designed and developed a Spring Boot web application for managing student data with secure role-based access. Integrated Thymeleaf, Bootstrap, MongoDB, and REST APIs for CRUD operations.",
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "simple-icons:springboot"
+        },
+        {
+          "name": "Spring Data",
+          "iconifyClass": "simple-icons:spring"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "Thymeleaf",
+          "iconifyClass": "simple-icons:thymeleaf"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos-bootstrap"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "P_012",
+      "name": "Dynamic Website on Belgium",
+      "createdAt": "2023-01-01",
+      "url": "https://github.com/abdessamad-chahbi/belgium-dynamic-website",
+      "description": "🌍 Created a dynamic website with HTML, CSS, JavaScript, and PHP showcasing information about Belgium. Developed a newsletter system and database connectivity using MySQL and XAMPP.",
+      "languages": [
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "XAMPP",
+          "iconifyClass": "simple-icons:xampp"
+        }
+      ]
+    }
+  ]
+}
