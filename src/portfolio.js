@@ -23,7 +23,8 @@ const greeting = {
   logo_name: "Abdessamad Chahbi",
   nickname: "Data Scientist and Software Engineer",
   subTitle:
-    "A passionate Master's student in Data Science and Intelligent Systems, driven by curiosity and innovation. I love solving real-world problems using AI, Machine Learning, Deep Learning, and Web Development, and building scalable, intelligent solutions that make an impact.",
+    // "A passionate Master's student in Data Science and Intelligent Systems, driven by curiosity and innovation. I love solving real-world problems using AI, Machine Learning, Deep Learning, and Full Stack Web Development, and building scalable, intelligent solutions that make an impact.",
+    "A passionate and rigorous AI and Software Engineer, recently graduated with a Master’s degree in Data Science and Intelligent Systems from the Faculty of Sciences and Techniques of Fez (FST Fès). Detail-oriented and motivated, with strong skills in Python, Java, Spring Boot, and React, as well as hands-on experience in Machine Learning, Deep Learning, and Full Stack Web Development. Eager to contribute to innovative projects in AI, Data Science, or Software Engineering, and to collaborate with dynamic teams to ensure the success of projects.",
   resumeLink:
     "https://drive.google.com/file/d/1fTaAO9KkZwPtaxPMnTqQnujGBa01s8n7/view?usp=sharing", // My Resume
   // portfolio_repository: "https://github.com/abdessamad-chahbi/myPortfolio",

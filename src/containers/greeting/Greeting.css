@@ -37,11 +37,20 @@
   font-family: "Google Sans Bold";
 }
 
-.greeting-nickname {
-  /* font-size: 30px; */
+/* .greeting-nickname {
+  // font-size: 30px;
   font-size: 25px;
   line-height: 0px;
   font-family: "Google Sans Bold Italic";
+} */
+
+.greeting-nickname {
+  display: block;
+  font-size: 25px;
+  line-height: 1.5;
+  font-family: "Google Sans Bold Italic";
+  margin-top: -25px;
+  margin-bottom: -10px;
 }
 
 .greeting-text-p {
