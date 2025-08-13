@@ -616,6 +616,15 @@ const certifications = {
   certifications: [
     {
       title: "Artificial Intelligence",
+      subtitle: "- Linkedin Learning",
+      logo_path: "linkedin_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/ddf22a6c6cc6590a1c7b3ade189826fe329529bb613e90c5917a1bc6ace638d6",
+      alt_name: "Linkedin Learning",
+      color_code: "#A9A9A9",
+    },
+    {
+      title: "Artificial Intelligence",
       subtitle: "- OpenClassrooms",
       logo_path: "openclassrooms_logo.png", // masterPortfolio/src/assets/images/openclassrooms_logo.jpeg
       certificate_link:
