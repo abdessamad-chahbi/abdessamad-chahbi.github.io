@@ -615,6 +615,17 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title:
+        "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
+      subtitle: "- Oracle University",
+      logo_path: "oracle_logo.png",
+      certificate_link:
+        "https://catalog-education.oracle.com/ords/certview/sharebadge?id=195DD9D20BD88AF4D238B48BE2AE917E019C30C08846F4119A1237B6E1747419",
+      alt_name: "Oracle University",
+      color_code: "#B22222",
+      // color_code: "#D84315",
+    },
+    {
       title: "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
       subtitle: "- Oracle University",
       logo_path: "oracle_logo.png",
