@@ -615,6 +615,16 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
+      subtitle: "- Oracle University",
+      logo_path: "oracle_logo.png",
+      certificate_link:
+        "https://catalog-education.oracle.com/ords/certview/sharebadge?id=0CE67E4CAC3AA00705BBE79EA00512E3CB587C8F518B23FB6181E4B80CE236C7",
+      alt_name: "Oracle University",
+      // color_code: "#B22222",
+      color_code: "#D84315",
+    },
+    {
       title: "Artificial Intelligence",
       subtitle: "- Linkedin Learning",
       logo_path: "linkedin_logo.png",
