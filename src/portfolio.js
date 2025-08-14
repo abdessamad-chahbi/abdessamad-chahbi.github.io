@@ -616,6 +616,16 @@ const certifications = {
   certifications: [
     {
       title:
+        "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
+      subtitle: "- Oracle University",
+      logo_path: "oracle_logo.png",
+      certificate_link:
+        "https://catalog-education.oracle.com/ords/certview/sharebadge?id=FD4F2A3E8655CC6729D89F5FA7C70FB071F0017FB93BA9A01909846EDB0EEB0A",
+      alt_name: "Oracle University",
+      color_code: "#D84315",
+    },
+    {
+      title:
         "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
       subtitle: "- Oracle University",
       logo_path: "oracle_logo.png",
