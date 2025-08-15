@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78adab714d3ce1d5368ecd3899a9eb56",
+    "revision": "b753dc29305e56d2a1fa9c5550656d4d",
     "url": "/index.html"
   },
   {
-    "revision": "e6f47aa3c4f9d2b100bf",
+    "revision": "c4e64d83ccbff61f0cd5",
     "url": "/static/css/main.bc0b81b7.chunk.css"
   },
   {
-    "revision": "8700703f28d09ef3d77e",
-    "url": "/static/js/2.b0085b9a.chunk.js"
+    "revision": "906a80aef80a838bcec5",
+    "url": "/static/js/2.5750b0b9.chunk.js"
   },
   {
-    "revision": "e6f47aa3c4f9d2b100bf",
-    "url": "/static/js/main.edf1d965.chunk.js"
+    "revision": "c4e64d83ccbff61f0cd5",
+    "url": "/static/js/main.012165cd.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -58,6 +58,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b58fe47a8e2e2f172d25ab0b2b07a5b2",
     "url": "/static/media/abdessamad_chahbi_profile.b58fe47a.png"
+  },
+  {
+    "revision": "a691777c1786d5432feed5ff4ffe4de8",
+    "url": "/static/media/abdessamad_chahbi_profile_1.a691777c.png"
+  },
+  {
+    "revision": "b258c37915941130da17679a4a421b53",
+    "url": "/static/media/abdessamad_chahbi_profile_2.b258c379.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
