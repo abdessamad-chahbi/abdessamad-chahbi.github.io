@@ -61,6 +61,18 @@ class Header extends Component {
                 </NavLink>
               </li>
               <li>
+                <a
+                  href="https://drive.google.com/drive/folders/1gxElsPnI8eSJZ4tS4mKTq0Vp0iVOyfzX?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: theme.text, textDecoration: "none" }}
+                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
+                  onMouseOut={(event) => onMouseOut(event)}
+                >
+                  Certifications
+                </a>
+              </li>
+              <li>
                 <NavLink
                   to="/experience"
                   tag={Link}
@@ -97,7 +109,8 @@ class Header extends Component {
                 </NavLink> */}
 
                 <a
-                  href="https://drive.google.com/file/d/1fTaAO9KkZwPtaxPMnTqQnujGBa01s8n7/view"
+                  // href="https://drive.google.com/file/d/1fTaAO9KkZwPtaxPMnTqQnujGBa01s8n7/view"
+                  href="https://drive.google.com/drive/folders/1nMO2Md7fAFWPhHxt2t4kJisqBIs1RACX?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{ color: theme.text, textDecoration: "none" }}
