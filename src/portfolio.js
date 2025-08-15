@@ -27,12 +27,12 @@ const greeting = {
     "A passionate and rigorous AI and Software Engineer, recently graduated with a Master’s degree in Data Science and Intelligent Systems from the Faculty of Sciences and Techniques of Fez (FST Fès). Detail-oriented and motivated, with strong skills in Python, Java, Spring Boot, and React, as well as hands-on experience in Machine Learning, Deep Learning, and Full Stack Web Development. Eager to contribute to innovative projects in AI, Data Science, or Software Engineering, and to collaborate with dynamic teams to ensure the success of projects.",
   resumeLink:
     // "https://drive.google.com/file/d/1fTaAO9KkZwPtaxPMnTqQnujGBa01s8n7/view?usp=sharing", // My Resume
-    "https://drive.google.com/file/d/1FjAJY5yWpS8GE878zDQH-Bi5aJ0oT99d/view",
+    "https://drive.google.com/file/d/1maHSDxz1PgBwKvN3bBQuyVp4DOJ1uSj8/view",
   // portfolio_repository: "https://github.com/abdessamad-chahbi/myPortfolio",
   portfolio_repository: "https://github.com/abdessamad-chahbi/",
   githubProfile: "https://github.com/abdessamad-chahbi",
   resume_link:
-    "https://drive.google.com/file/d/1FjAJY5yWpS8GE878zDQH-Bi5aJ0oT99d/view",
+    "https://drive.google.com/file/d/1maHSDxz1PgBwKvN3bBQuyVp4DOJ1uSj8/view",
 };
 
 const socialMediaLinks = [
@@ -1400,7 +1400,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "abdessamad_chahbi_profile.png", // src/assets/images/abdessamad_chahbi_profile.png
+    profile_image_path: "abdessamad_chahbi_profile_2.png", // src/assets/images/abdessamad_chahbi_profile.png
     description:
       "I am open to new opportunities, collaborations, and discussions related to Data Science, AI, Machine Learning, Deep Learning, Full Stack Development, and Cloud Computing. Feel free to contact me via email, LinkedIn, or social media. I’ll do my best to respond within 24 hours.",
   },

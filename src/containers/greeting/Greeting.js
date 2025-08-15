@@ -68,7 +68,7 @@ export default function Greeting(props) {
 						></img> */}
             <img
               alt="saad sitting on table"
-              src={require("../../assets/images/abdessamad_chahbi_profile.png")}
+              src={require("../../assets/images/abdessamad_chahbi_profile_1.png")}
             ></img>
             {/* <FeelingProud theme={theme} /> */}
           </div>
