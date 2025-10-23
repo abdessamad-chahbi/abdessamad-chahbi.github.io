@@ -164,7 +164,7 @@
       "id": "P_005",
       "name": "My Portfolio",
       "createdAt": "2025-07-01",
-      "url": "https://github.com/abdessamad-chahbi/myPortfolio",
+      "url": "https://github.com/abdessamad-chahbi/abdessamad-chahbi.github.io",
       "description": "🔥 Built a personal portfolio website to showcase my projects and skills. Developed with HTML, CSS, and JavaScript, containerized with Docker, and deployed for continuous availability.",
       "isFork": false,
       "languages": [
@@ -288,7 +288,7 @@
       "id": "P_008",
       "name": "Full Stack - Web Application for Resource Management",
       "createdAt": "2024-03-01",
-      "url": "https://github.com/abdessamad-chahbi/resource-management-app",
+      "url": "https://github.com/abdessamad-chahbi/Project_Genie_Logiciel_SpringBoot_JSP",
       "description": "🗂️ Led a team to develop a resource management system with Spring Boot and JSP. Managed supplier proposals, delivery workflows, and implemented authentication with Spring Security.",
       "languages": [
         {
